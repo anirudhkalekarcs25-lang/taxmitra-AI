@@ -1,0 +1,309 @@
+{
+  "period": "2026-10",
+  "recipient_gstin": "29AKNPS4410R1ZA",
+  "summary": {
+    "matched": 20,
+    "missing_in_2b": 3,
+    "amount_mismatch": 2,
+    "in_2b_not_in_books": 1,
+    "rate_errors": 1,
+    "itc_in_books_total": 69488.77,
+    "itc_at_risk_total": 8914.5,
+    "itc_at_risk_invoice_ids": [
+      "INV-004",
+      "INV-007",
+      "INV-011",
+      "INV-014",
+      "INV-018"
+    ]
+  },
+  "purchases": [
+    {
+      "id": "INV-001",
+      "invoice_no": "KKM/26-27/0350",
+      "supplier_gstin": "29AABCK4821M1Z9",
+      "status": "matched",
+      "itc_in_books": 912.5,
+      "itc_in_2b": 912.5,
+      "itc_at_risk": 0.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-002",
+      "invoice_no": "MCT/26-27/0532",
+      "supplier_gstin": "29AAEFM7302D1ZJ",
+      "status": "matched",
+      "itc_in_books": 4675.0,
+      "itc_in_2b": 4675.0,
+      "itc_at_risk": 0.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-003",
+      "invoice_no": "TTX/26-27/0338",
+      "supplier_gstin": "33AAUFT5519H1ZS",
+      "status": "matched",
+      "itc_in_books": 400.0,
+      "itc_in_2b": 400.0,
+      "itc_at_risk": 0.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-004",
+      "invoice_no": "CFC/26-27/0529",
+      "supplier_gstin": "33AAGFC2204Q1ZK",
+      "status": "missing_in_2b",
+      "itc_in_books": 575.0,
+      "itc_in_2b": 0.0,
+      "itc_at_risk": 575.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-005",
+      "invoice_no": "SWI/26-27/0448",
+      "supplier_gstin": "24AAHCS9017L1Z1",
+      "status": "matched",
+      "itc_in_books": 1142.5,
+      "itc_in_2b": 1142.5,
+      "itc_at_risk": 0.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-006",
+      "invoice_no": "AGH/26-27/0489",
+      "supplier_gstin": "24AAJFA6643R1ZX",
+      "status": "matched",
+      "itc_in_books": 2438.75,
+      "itc_in_2b": 2438.75,
+      "itc_at_risk": 0.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-007",
+      "invoice_no": "PAH/26-27/0370",
+      "supplier_gstin": "27AAMFP1180B1ZG",
+      "status": "amount_mismatch",
+      "itc_in_books": 3900.0,
+      "itc_in_2b": 3510.0,
+      "itc_at_risk": 390.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-008",
+      "invoice_no": "HTD/26-27/0227",
+      "supplier_gstin": "29AAIFH3957C1Z9",
+      "status": "matched",
+      "itc_in_books": 1325.0,
+      "itc_in_2b": 1325.0,
+      "itc_at_risk": 0.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-009",
+      "invoice_no": "KKM/26-27/0146",
+      "supplier_gstin": "29AABCK4821M1Z9",
+      "status": "matched",
+      "itc_in_books": 3768.76,
+      "itc_in_2b": 3768.76,
+      "itc_at_risk": 0.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-010",
+      "invoice_no": "MCT/26-27/0564",
+      "supplier_gstin": "29AAEFM7302D1ZJ",
+      "status": "matched",
+      "itc_in_books": 1356.26,
+      "itc_in_2b": 1356.26,
+      "itc_at_risk": 0.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-011",
+      "invoice_no": "TTX/26-27/0723",
+      "supplier_gstin": "33AAUFT5519H1ZS",
+      "status": "missing_in_2b",
+      "itc_in_books": 1772.5,
+      "itc_in_2b": 0.0,
+      "itc_at_risk": 1772.5,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-012",
+      "invoice_no": "CFC/26-27/0755",
+      "supplier_gstin": "33AAGFC2204Q1ZK",
+      "status": "matched",
+      "itc_in_books": 1790.0,
+      "itc_in_2b": 1790.0,
+      "itc_at_risk": 0.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-013",
+      "invoice_no": "SWI/26-27/0924",
+      "supplier_gstin": "24AAHCS9017L1Z1",
+      "status": "matched",
+      "itc_in_books": 895.0,
+      "itc_in_2b": 895.0,
+      "itc_at_risk": 0.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-014",
+      "invoice_no": "AGH/26-27/0317",
+      "supplier_gstin": "24AAJFA6643R1ZX",
+      "status": "amount_mismatch",
+      "itc_in_books": 3670.0,
+      "itc_in_2b": 3303.0,
+      "itc_at_risk": 367.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-015",
+      "invoice_no": "PAH/26-27/0864",
+      "supplier_gstin": "27AAMFP1180B1ZG",
+      "status": "matched",
+      "itc_in_books": 3692.5,
+      "itc_in_2b": 3692.5,
+      "itc_at_risk": 0.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-016",
+      "invoice_no": "HTD/26-27/0981",
+      "supplier_gstin": "29AAIFH3957C1Z9",
+      "status": "matched",
+      "itc_in_books": 4442.5,
+      "itc_in_2b": 4442.5,
+      "itc_at_risk": 0.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-017",
+      "invoice_no": "KKM/26-27/0911",
+      "supplier_gstin": "29AABCK4821M1Z9",
+      "status": "matched",
+      "itc_in_books": 1005.0,
+      "itc_in_2b": 1005.0,
+      "itc_at_risk": 0.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-018",
+      "invoice_no": "MCT/26-27/0981",
+      "supplier_gstin": "29AAEFM7302D1ZJ",
+      "status": "missing_in_2b",
+      "itc_in_books": 5810.0,
+      "itc_in_2b": 0.0,
+      "itc_at_risk": 5810.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-019",
+      "invoice_no": "TTX/26-27/0798",
+      "supplier_gstin": "33AAUFT5519H1ZS",
+      "status": "matched",
+      "itc_in_books": 412.5,
+      "itc_in_2b": 412.5,
+      "itc_at_risk": 0.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-020",
+      "invoice_no": "CFC/26-27/0564",
+      "supplier_gstin": "33AAGFC2204Q1ZK",
+      "status": "matched",
+      "itc_in_books": 1555.0,
+      "itc_in_2b": 1555.0,
+      "itc_at_risk": 0.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-021",
+      "invoice_no": "SWI/26-27/0612",
+      "supplier_gstin": "24AAHCS9017L1Z1",
+      "status": "matched",
+      "itc_in_books": 925.0,
+      "itc_in_2b": 925.0,
+      "itc_at_risk": 0.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-022",
+      "invoice_no": "AGH/26-27/0723",
+      "supplier_gstin": "24AAJFA6643R1ZX",
+      "status": "matched",
+      "itc_in_books": 10215.0,
+      "itc_in_2b": 10215.0,
+      "itc_at_risk": 0.0,
+      "rate_error": true,
+      "expected_gst_rate": 5
+    },
+    {
+      "id": "INV-023",
+      "invoice_no": "PAH/26-27/0100",
+      "supplier_gstin": "27AAMFP1180B1ZG",
+      "status": "matched",
+      "itc_in_books": 5360.0,
+      "itc_in_2b": 5360.0,
+      "itc_at_risk": 0.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-024",
+      "invoice_no": "HTD/26-27/0345",
+      "supplier_gstin": "29AAIFH3957C1Z9",
+      "status": "matched",
+      "itc_in_books": 2680.0,
+      "itc_in_2b": 2680.0,
+      "itc_at_risk": 0.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    },
+    {
+      "id": "INV-025",
+      "invoice_no": "KKM/26-27/0180",
+      "supplier_gstin": "29AABCK4821M1Z9",
+      "status": "matched",
+      "itc_in_books": 4770.0,
+      "itc_in_2b": 4770.0,
+      "itc_at_risk": 0.0,
+      "rate_error": false,
+      "expected_gst_rate": null
+    }
+  ],
+  "in_2b_not_in_books": [
+    {
+      "supplier_gstin": "33AAGFC2204Q1ZK",
+      "invoice_no": "CFC/26-27/0777",
+      "date": "2026-10-20",
+      "taxable_value": 18000.0,
+      "cgst": 0.0,
+      "sgst": 0.0,
+      "igst": 900.0,
+      "total": 18900.0
+    }
+  ]
+}

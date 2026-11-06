@@ -1,0 +1,407 @@
+[
+  {
+    "id": "SALE-001",
+    "date": "2026-10-02",
+    "invoice_no": "SMG/26-27/0001",
+    "buyer_name": "Urban Threads Boutique",
+    "buyer_gstin": "29AAFPU2231K1ZG",
+    "buyer_city": "Bengaluru",
+    "from_pincode": "560001",
+    "to_pincode": "560034",
+    "line_items": [
+      {
+        "description": "Men's cotton round-neck T-shirt",
+        "hsn": "6109",
+        "qty": 20,
+        "unit": "pcs",
+        "rate": 400.0,
+        "amount": 8000.0
+      }
+    ],
+    "taxable_value": 8000.0,
+    "gst_rate": 5,
+    "cgst": 200.0,
+    "sgst": 200.0,
+    "igst": 0.0,
+    "total": 8400.0,
+    "eway_bill_required": false
+  },
+  {
+    "id": "SALE-002",
+    "date": "2026-10-04",
+    "invoice_no": "SMG/26-27/0002",
+    "buyer_name": "Koramangala Kids Corner",
+    "buyer_gstin": "29AAKFK8820P1ZH",
+    "buyer_city": "Bengaluru",
+    "from_pincode": "560001",
+    "to_pincode": "560095",
+    "line_items": [
+      {
+        "description": "Men's cotton formal shirt",
+        "hsn": "6205",
+        "qty": 25,
+        "unit": "pcs",
+        "rate": 500.0,
+        "amount": 12500.0
+      }
+    ],
+    "taxable_value": 12500.0,
+    "gst_rate": 5,
+    "cgst": 312.5,
+    "sgst": 312.5,
+    "igst": 0.0,
+    "total": 13125.0,
+    "eway_bill_required": false
+  },
+  {
+    "id": "SALE-003",
+    "date": "2026-10-06",
+    "invoice_no": "SMG/26-27/0003",
+    "buyer_name": "City Fashion Mart",
+    "buyer_gstin": "29AABFC4417T1ZX",
+    "buyer_city": "Bengaluru",
+    "from_pincode": "560001",
+    "to_pincode": "560068",
+    "line_items": [
+      {
+        "description": "Men's cotton round-neck T-shirt",
+        "hsn": "6109",
+        "qty": 45,
+        "unit": "pcs",
+        "rate": 400.0,
+        "amount": 18000.0
+      }
+    ],
+    "taxable_value": 18000.0,
+    "gst_rate": 5,
+    "cgst": 450.0,
+    "sgst": 450.0,
+    "igst": 0.0,
+    "total": 18900.0,
+    "eway_bill_required": false
+  },
+  {
+    "id": "SALE-004",
+    "date": "2026-10-08",
+    "invoice_no": "SMG/26-27/0004",
+    "buyer_name": "Urban Threads Boutique",
+    "buyer_gstin": "29AAFPU2231K1ZG",
+    "buyer_city": "Bengaluru",
+    "from_pincode": "560001",
+    "to_pincode": "560034",
+    "line_items": [
+      {
+        "description": "Women's cotton kurti",
+        "hsn": "6204",
+        "qty": 45,
+        "unit": "pcs",
+        "rate": 500.0,
+        "amount": 22500.0
+      }
+    ],
+    "taxable_value": 22500.0,
+    "gst_rate": 5,
+    "cgst": 562.5,
+    "sgst": 562.5,
+    "igst": 0.0,
+    "total": 23625.0,
+    "eway_bill_required": false
+  },
+  {
+    "id": "SALE-005",
+    "date": "2026-10-10",
+    "invoice_no": "SMG/26-27/0005",
+    "buyer_name": "Koramangala Kids Corner",
+    "buyer_gstin": "29AAKFK8820P1ZH",
+    "buyer_city": "Bengaluru",
+    "from_pincode": "560001",
+    "to_pincode": "560095",
+    "line_items": [
+      {
+        "description": "Kids' knitted cotton set",
+        "hsn": "6111",
+        "qty": 20,
+        "unit": "pcs",
+        "rate": 475.0,
+        "amount": 9500.0
+      }
+    ],
+    "taxable_value": 9500.0,
+    "gst_rate": 5,
+    "cgst": 237.5,
+    "sgst": 237.5,
+    "igst": 0.0,
+    "total": 9975.0,
+    "eway_bill_required": false
+  },
+  {
+    "id": "SALE-006",
+    "date": "2026-10-12",
+    "invoice_no": "SMG/26-27/0006",
+    "buyer_name": "City Fashion Mart",
+    "buyer_gstin": "29AABFC4417T1ZX",
+    "buyer_city": "Bengaluru",
+    "from_pincode": "560001",
+    "to_pincode": "560068",
+    "line_items": [
+      {
+        "description": "Men's cotton trousers",
+        "hsn": "6203",
+        "qty": 60,
+        "unit": "pcs",
+        "rate": 500.0,
+        "amount": 30000.0
+      }
+    ],
+    "taxable_value": 30000.0,
+    "gst_rate": 5,
+    "cgst": 750.0,
+    "sgst": 750.0,
+    "igst": 0.0,
+    "total": 31500.0,
+    "eway_bill_required": false
+  },
+  {
+    "id": "SALE-007",
+    "date": "2026-10-14",
+    "invoice_no": "SMG/26-27/0007",
+    "buyer_name": "Urban Threads Boutique",
+    "buyer_gstin": "29AAFPU2231K1ZG",
+    "buyer_city": "Bengaluru",
+    "from_pincode": "560001",
+    "to_pincode": "560034",
+    "line_items": [
+      {
+        "description": "Men's cotton formal shirt",
+        "hsn": "6205",
+        "qty": 30,
+        "unit": "pcs",
+        "rate": 500.0,
+        "amount": 15000.0
+      }
+    ],
+    "taxable_value": 15000.0,
+    "gst_rate": 5,
+    "cgst": 375.0,
+    "sgst": 375.0,
+    "igst": 0.0,
+    "total": 15750.0,
+    "eway_bill_required": false
+  },
+  {
+    "id": "SALE-008",
+    "date": "2026-10-16",
+    "invoice_no": "SMG/26-27/0008",
+    "buyer_name": "Koramangala Kids Corner",
+    "buyer_gstin": "29AAKFK8820P1ZH",
+    "buyer_city": "Bengaluru",
+    "from_pincode": "560001",
+    "to_pincode": "560095",
+    "line_items": [
+      {
+        "description": "Women's cotton kurti",
+        "hsn": "6204",
+        "qty": 50,
+        "unit": "pcs",
+        "rate": 550.0,
+        "amount": 27500.0
+      }
+    ],
+    "taxable_value": 27500.0,
+    "gst_rate": 5,
+    "cgst": 687.5,
+    "sgst": 687.5,
+    "igst": 0.0,
+    "total": 28875.0,
+    "eway_bill_required": false
+  },
+  {
+    "id": "SALE-009",
+    "date": "2026-10-18",
+    "invoice_no": "SMG/26-27/0009",
+    "buyer_name": "City Fashion Mart",
+    "buyer_gstin": "29AABFC4417T1ZX",
+    "buyer_city": "Bengaluru",
+    "from_pincode": "560001",
+    "to_pincode": "560068",
+    "line_items": [
+      {
+        "description": "Men's cotton round-neck T-shirt",
+        "hsn": "6109",
+        "qty": 15,
+        "unit": "pcs",
+        "rate": 400.0,
+        "amount": 6000.0
+      }
+    ],
+    "taxable_value": 6000.0,
+    "gst_rate": 5,
+    "cgst": 150.0,
+    "sgst": 150.0,
+    "igst": 0.0,
+    "total": 6300.0,
+    "eway_bill_required": false
+  },
+  {
+    "id": "SALE-010",
+    "date": "2026-10-20",
+    "invoice_no": "SMG/26-27/0010",
+    "buyer_name": "Urban Threads Boutique",
+    "buyer_gstin": "29AAFPU2231K1ZG",
+    "buyer_city": "Bengaluru",
+    "from_pincode": "560001",
+    "to_pincode": "560034",
+    "line_items": [
+      {
+        "description": "Men's cotton trousers",
+        "hsn": "6203",
+        "qty": 80,
+        "unit": "pcs",
+        "rate": 500.0,
+        "amount": 40000.0
+      }
+    ],
+    "taxable_value": 40000.0,
+    "gst_rate": 5,
+    "cgst": 1000.0,
+    "sgst": 1000.0,
+    "igst": 0.0,
+    "total": 42000.0,
+    "eway_bill_required": false
+  },
+  {
+    "id": "SALE-011",
+    "date": "2026-10-22",
+    "invoice_no": "SMG/26-27/0011",
+    "buyer_name": "City Fashion Mart",
+    "buyer_gstin": "29AABFC4417T1ZX",
+    "buyer_city": "Bengaluru",
+    "from_pincode": "560001",
+    "to_pincode": "560068",
+    "line_items": [
+      {
+        "description": "Men's cotton formal shirt",
+        "hsn": "6205",
+        "qty": 100,
+        "unit": "pcs",
+        "rate": 470.0,
+        "amount": 47000.0
+      }
+    ],
+    "taxable_value": 47000.0,
+    "gst_rate": 5,
+    "cgst": 1175.0,
+    "sgst": 1175.0,
+    "igst": 0.0,
+    "total": 49350.0,
+    "eway_bill_required": false
+  },
+  {
+    "id": "SALE-012",
+    "date": "2026-10-24",
+    "invoice_no": "SMG/26-27/0012",
+    "buyer_name": "Mysuru Style Bazaar",
+    "buyer_gstin": "29AAHFM1096N1ZO",
+    "buyer_city": "Mysuru",
+    "from_pincode": "560001",
+    "to_pincode": "570001",
+    "line_items": [
+      {
+        "description": "Men's cotton round-neck T-shirt",
+        "hsn": "6109",
+        "qty": 120,
+        "unit": "pcs",
+        "rate": 400.0,
+        "amount": 48000.0
+      }
+    ],
+    "taxable_value": 48000.0,
+    "gst_rate": 5,
+    "cgst": 1200.0,
+    "sgst": 1200.0,
+    "igst": 0.0,
+    "total": 50400.0,
+    "eway_bill_required": true
+  },
+  {
+    "id": "SALE-013",
+    "date": "2026-10-26",
+    "invoice_no": "SMG/26-27/0013",
+    "buyer_name": "Chennai Trendz",
+    "buyer_gstin": "33AATCC5538G1ZF",
+    "buyer_city": "Chennai",
+    "from_pincode": "560001",
+    "to_pincode": "600001",
+    "line_items": [
+      {
+        "description": "Women's cotton kurti",
+        "hsn": "6204",
+        "qty": 150,
+        "unit": "pcs",
+        "rate": 400.0,
+        "amount": 60000.0
+      }
+    ],
+    "taxable_value": 60000.0,
+    "gst_rate": 5,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 3000.0,
+    "total": 63000.0,
+    "eway_bill_required": true
+  },
+  {
+    "id": "SALE-014",
+    "date": "2026-10-28",
+    "invoice_no": "SMG/26-27/0014",
+    "buyer_name": "Pune Fashion Point",
+    "buyer_gstin": "27AAPFP7745E1ZS",
+    "buyer_city": "Pune",
+    "from_pincode": "560001",
+    "to_pincode": "411001",
+    "line_items": [
+      {
+        "description": "Men's cotton trousers",
+        "hsn": "6203",
+        "qty": 200,
+        "unit": "pcs",
+        "rate": 400.0,
+        "amount": 80000.0
+      }
+    ],
+    "taxable_value": 80000.0,
+    "gst_rate": 5,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 4000.0,
+    "total": 84000.0,
+    "eway_bill_required": true
+  },
+  {
+    "id": "SALE-015",
+    "date": "2026-10-30",
+    "invoice_no": "SMG/26-27/0015",
+    "buyer_name": "Hubballi Garment Mart",
+    "buyer_gstin": "29AAJFH3380D1ZD",
+    "buyer_city": "Hubballi",
+    "from_pincode": "560001",
+    "to_pincode": "580020",
+    "line_items": [
+      {
+        "description": "Men's cotton formal shirt",
+        "hsn": "6205",
+        "qty": 300,
+        "unit": "pcs",
+        "rate": 400.0,
+        "amount": 120000.0
+      }
+    ],
+    "taxable_value": 120000.0,
+    "gst_rate": 5,
+    "cgst": 3000.0,
+    "sgst": 3000.0,
+    "igst": 0.0,
+    "total": 126000.0,
+    "eway_bill_required": true
+  }
+]

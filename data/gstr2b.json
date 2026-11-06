@@ -1,0 +1,263 @@
+{
+  "note": "SIMULATED GSTR-2B style feed for the hackathon demo. Not real GST portal data.",
+  "return_period": "102026",
+  "recipient_gstin": "29AKNPS4410R1ZA",
+  "recipient_name": "Sri Meenakshi Garments",
+  "b2b": [
+    {
+      "supplier_gstin": "29AABCK4821M1Z9",
+      "supplier_name": "Kaveri Knit Mills Pvt Ltd",
+      "invoices": [
+        {
+          "invoice_no": "KKM/26-27/0350",
+          "date": "2026-10-01",
+          "taxable_value": 18250.0,
+          "cgst": 456.25,
+          "sgst": 456.25,
+          "igst": 0.0,
+          "total": 19162.5
+        },
+        {
+          "invoice_no": "KKM/26-27/0146",
+          "date": "2026-10-10",
+          "taxable_value": 75375.0,
+          "cgst": 1884.38,
+          "sgst": 1884.38,
+          "igst": 0.0,
+          "total": 79143.76
+        },
+        {
+          "invoice_no": "KKM/26-27/0911",
+          "date": "2026-10-19",
+          "taxable_value": 20100.0,
+          "cgst": 502.5,
+          "sgst": 502.5,
+          "igst": 0.0,
+          "total": 21105.0
+        },
+        {
+          "invoice_no": "KKM/26-27/0180",
+          "date": "2026-10-28",
+          "taxable_value": 95400.0,
+          "cgst": 2385.0,
+          "sgst": 2385.0,
+          "igst": 0.0,
+          "total": 100170.0
+        }
+      ]
+    },
+    {
+      "supplier_gstin": "29AAEFM7302D1ZJ",
+      "supplier_name": "Mysore Cotton Traders",
+      "invoices": [
+        {
+          "invoice_no": "MCT/26-27/0532",
+          "date": "2026-10-02",
+          "taxable_value": 93500.0,
+          "cgst": 2337.5,
+          "sgst": 2337.5,
+          "igst": 0.0,
+          "total": 98175.0
+        },
+        {
+          "invoice_no": "MCT/26-27/0564",
+          "date": "2026-10-11",
+          "taxable_value": 27125.0,
+          "cgst": 678.13,
+          "sgst": 678.13,
+          "igst": 0.0,
+          "total": 28481.26
+        }
+      ]
+    },
+    {
+      "supplier_gstin": "33AAUFT5519H1ZS",
+      "supplier_name": "Tiruppur Tex Exports",
+      "invoices": [
+        {
+          "invoice_no": "TTX/26-27/0338",
+          "date": "2026-10-03",
+          "taxable_value": 8000.0,
+          "cgst": 0.0,
+          "sgst": 0.0,
+          "igst": 400.0,
+          "total": 8400.0
+        },
+        {
+          "invoice_no": "TTX/26-27/0798",
+          "date": "2026-10-21",
+          "taxable_value": 8250.0,
+          "cgst": 0.0,
+          "sgst": 0.0,
+          "igst": 412.5,
+          "total": 8662.5
+        }
+      ]
+    },
+    {
+      "supplier_gstin": "24AAHCS9017L1Z1",
+      "supplier_name": "Surat Weave Industries",
+      "invoices": [
+        {
+          "invoice_no": "SWI/26-27/0448",
+          "date": "2026-10-05",
+          "taxable_value": 22850.0,
+          "cgst": 0.0,
+          "sgst": 0.0,
+          "igst": 1142.5,
+          "total": 23992.5
+        },
+        {
+          "invoice_no": "SWI/26-27/0924",
+          "date": "2026-10-15",
+          "taxable_value": 17900.0,
+          "cgst": 0.0,
+          "sgst": 0.0,
+          "igst": 895.0,
+          "total": 18795.0
+        },
+        {
+          "invoice_no": "SWI/26-27/0612",
+          "date": "2026-10-23",
+          "taxable_value": 18500.0,
+          "cgst": 0.0,
+          "sgst": 0.0,
+          "igst": 925.0,
+          "total": 19425.0
+        }
+      ]
+    },
+    {
+      "supplier_gstin": "24AAJFA6643R1ZX",
+      "supplier_name": "Ahmedabad Garment Hub",
+      "invoices": [
+        {
+          "invoice_no": "AGH/26-27/0489",
+          "date": "2026-10-07",
+          "taxable_value": 48775.0,
+          "cgst": 0.0,
+          "sgst": 0.0,
+          "igst": 2438.75,
+          "total": 51213.75
+        },
+        {
+          "invoice_no": "AGH/26-27/0317",
+          "date": "2026-10-16",
+          "taxable_value": 66060.0,
+          "cgst": 0.0,
+          "sgst": 0.0,
+          "igst": 3303.0,
+          "total": 69363.0
+        },
+        {
+          "invoice_no": "AGH/26-27/0723",
+          "date": "2026-10-25",
+          "taxable_value": 56750.0,
+          "cgst": 0.0,
+          "sgst": 0.0,
+          "igst": 10215.0,
+          "total": 66965.0
+        }
+      ]
+    },
+    {
+      "supplier_gstin": "27AAMFP1180B1ZG",
+      "supplier_name": "Pune Apparel House",
+      "invoices": [
+        {
+          "invoice_no": "PAH/26-27/0370",
+          "date": "2026-10-08",
+          "taxable_value": 70200.0,
+          "cgst": 0.0,
+          "sgst": 0.0,
+          "igst": 3510.0,
+          "total": 73710.0
+        },
+        {
+          "invoice_no": "PAH/26-27/0864",
+          "date": "2026-10-17",
+          "taxable_value": 73850.0,
+          "cgst": 0.0,
+          "sgst": 0.0,
+          "igst": 3692.5,
+          "total": 77542.5
+        },
+        {
+          "invoice_no": "PAH/26-27/0100",
+          "date": "2026-10-26",
+          "taxable_value": 107200.0,
+          "cgst": 0.0,
+          "sgst": 0.0,
+          "igst": 5360.0,
+          "total": 112560.0
+        }
+      ]
+    },
+    {
+      "supplier_gstin": "29AAIFH3957C1Z9",
+      "supplier_name": "Hubballi Textile Depot",
+      "invoices": [
+        {
+          "invoice_no": "HTD/26-27/0227",
+          "date": "2026-10-09",
+          "taxable_value": 26500.0,
+          "cgst": 662.5,
+          "sgst": 662.5,
+          "igst": 0.0,
+          "total": 27825.0
+        },
+        {
+          "invoice_no": "HTD/26-27/0981",
+          "date": "2026-10-18",
+          "taxable_value": 88850.0,
+          "cgst": 2221.25,
+          "sgst": 2221.25,
+          "igst": 0.0,
+          "total": 93292.5
+        },
+        {
+          "invoice_no": "HTD/26-27/0345",
+          "date": "2026-10-27",
+          "taxable_value": 53600.0,
+          "cgst": 1340.0,
+          "sgst": 1340.0,
+          "igst": 0.0,
+          "total": 56280.0
+        }
+      ]
+    },
+    {
+      "supplier_gstin": "33AAGFC2204Q1ZK",
+      "supplier_name": "Coimbatore Fabrics Co",
+      "invoices": [
+        {
+          "invoice_no": "CFC/26-27/0755",
+          "date": "2026-10-13",
+          "taxable_value": 35800.0,
+          "cgst": 0.0,
+          "sgst": 0.0,
+          "igst": 1790.0,
+          "total": 37590.0
+        },
+        {
+          "invoice_no": "CFC/26-27/0564",
+          "date": "2026-10-22",
+          "taxable_value": 31100.0,
+          "cgst": 0.0,
+          "sgst": 0.0,
+          "igst": 1555.0,
+          "total": 32655.0
+        },
+        {
+          "invoice_no": "CFC/26-27/0777",
+          "date": "2026-10-20",
+          "taxable_value": 18000.0,
+          "cgst": 0.0,
+          "sgst": 0.0,
+          "igst": 900.0,
+          "total": 18900.0
+        }
+      ]
+    }
+  ]
+}

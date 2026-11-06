@@ -1,0 +1,887 @@
+[
+  {
+    "id": "INV-001",
+    "image": "bills/INV-001.png",
+    "document_type": "tax_invoice",
+    "supplier_name": "Kaveri Knit Mills Pvt Ltd",
+    "supplier_gstin": "29AABCK4821M1Z9",
+    "supplier_address": "Plot 41, Peenya Industrial Area, Bengaluru 560058",
+    "invoice_no": "KKM/26-27/0350",
+    "date": "2026-10-01",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Men's cotton round-neck T-shirt",
+        "hsn": "6109",
+        "qty": 50,
+        "unit": "pcs",
+        "rate": 365.0,
+        "amount": 18250.0
+      }
+    ],
+    "taxable_value": 18250.0,
+    "gst_rate": 5,
+    "cgst": 456.25,
+    "sgst": 456.25,
+    "igst": 0.0,
+    "total": 19162.5
+  },
+  {
+    "id": "INV-002",
+    "image": "bills/INV-002.png",
+    "document_type": "tax_invoice",
+    "supplier_name": "Mysore Cotton Traders",
+    "supplier_gstin": "29AAEFM7302D1ZJ",
+    "supplier_address": "88, Devaraja Mohalla, Mysuru 570001",
+    "invoice_no": "MCT/26-27/0532",
+    "date": "2026-10-02",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Men's cotton formal shirt",
+        "hsn": "6205",
+        "qty": 100,
+        "unit": "pcs",
+        "rate": 695.0,
+        "amount": 69500.0
+      },
+      {
+        "description": "Men's cotton round-neck T-shirt",
+        "hsn": "6109",
+        "qty": 120,
+        "unit": "pcs",
+        "rate": 200.0,
+        "amount": 24000.0
+      }
+    ],
+    "taxable_value": 93500.0,
+    "gst_rate": 5,
+    "cgst": 2337.5,
+    "sgst": 2337.5,
+    "igst": 0.0,
+    "total": 98175.0
+  },
+  {
+    "id": "INV-003",
+    "image": "bills/INV-003.jpg",
+    "document_type": "tax_invoice",
+    "supplier_name": "Tiruppur Tex Exports",
+    "supplier_gstin": "33AAUFT5519H1ZS",
+    "supplier_address": "14/2, Kangeyam Road, Tiruppur 641601",
+    "invoice_no": "TTX/26-27/0338",
+    "date": "2026-10-03",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Men's cotton round-neck T-shirt",
+        "hsn": "6109",
+        "qty": 40,
+        "unit": "pcs",
+        "rate": 200.0,
+        "amount": 8000.0
+      }
+    ],
+    "taxable_value": 8000.0,
+    "gst_rate": 5,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 400.0,
+    "total": 8400.0
+  },
+  {
+    "id": "INV-004",
+    "image": "bills/INV-004.png",
+    "document_type": "tax_invoice",
+    "supplier_name": "Coimbatore Fabrics Co",
+    "supplier_gstin": "33AAGFC2204Q1ZK",
+    "supplier_address": "7, Oppanakara Street, Coimbatore 641001",
+    "invoice_no": "CFC/26-27/0529",
+    "date": "2026-10-04",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Cotton poplin fabric",
+        "hsn": "5208",
+        "qty": 100,
+        "unit": "mtr",
+        "rate": 115.0,
+        "amount": 11500.0
+      }
+    ],
+    "taxable_value": 11500.0,
+    "gst_rate": 5,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 575.0,
+    "total": 12075.0
+  },
+  {
+    "id": "INV-005",
+    "image": "bills/INV-005.png",
+    "document_type": "tax_invoice",
+    "supplier_name": "Surat Weave Industries",
+    "supplier_gstin": "24AAHCS9017L1Z1",
+    "supplier_address": "Block C, Ring Road Textile Market, Surat 395003",
+    "invoice_no": "SWI/26-27/0448",
+    "date": "2026-10-05",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Men's cotton trousers",
+        "hsn": "6203",
+        "qty": 20,
+        "unit": "pcs",
+        "rate": 730.0,
+        "amount": 14600.0
+      },
+      {
+        "description": "Cotton poplin fabric",
+        "hsn": "5208",
+        "qty": 75,
+        "unit": "mtr",
+        "rate": 110.0,
+        "amount": 8250.0
+      }
+    ],
+    "taxable_value": 22850.0,
+    "gst_rate": 5,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 1142.5,
+    "total": 23992.5
+  },
+  {
+    "id": "INV-006",
+    "image": "bills/INV-006.png",
+    "document_type": "tax_invoice",
+    "supplier_name": "Ahmedabad Garment Hub",
+    "supplier_gstin": "24AAJFA6643R1ZX",
+    "supplier_address": "22, Relief Road, Ahmedabad 380001",
+    "invoice_no": "AGH/26-27/0489",
+    "date": "2026-10-07",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Men's cotton formal shirt",
+        "hsn": "6205",
+        "qty": 60,
+        "unit": "pcs",
+        "rate": 740.0,
+        "amount": 44400.0
+      },
+      {
+        "description": "Kids' knitted cotton set",
+        "hsn": "6111",
+        "qty": 25,
+        "unit": "pcs",
+        "rate": 175.0,
+        "amount": 4375.0
+      }
+    ],
+    "taxable_value": 48775.0,
+    "gst_rate": 5,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 2438.75,
+    "total": 51213.75
+  },
+  {
+    "id": "INV-007",
+    "image": "bills/INV-007.png",
+    "document_type": "tax_invoice",
+    "supplier_name": "Pune Apparel House",
+    "supplier_gstin": "27AAMFP1180B1ZG",
+    "supplier_address": "5, Laxmi Road, Pune 411001",
+    "invoice_no": "PAH/26-27/0370",
+    "date": "2026-10-08",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Women's cotton kurti",
+        "hsn": "6204",
+        "qty": 120,
+        "unit": "pcs",
+        "rate": 650.0,
+        "amount": 78000.0
+      }
+    ],
+    "taxable_value": 78000.0,
+    "gst_rate": 5,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 3900.0,
+    "total": 81900.0
+  },
+  {
+    "id": "INV-008",
+    "image": "bills/INV-008.jpg",
+    "document_type": "tax_invoice",
+    "supplier_name": "Hubballi Textile Depot",
+    "supplier_gstin": "29AAIFH3957C1Z9",
+    "supplier_address": "31, Station Road, Hubballi 580020",
+    "invoice_no": "HTD/26-27/0227",
+    "date": "2026-10-09",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Kids' knitted cotton set",
+        "hsn": "6111",
+        "qty": 100,
+        "unit": "pcs",
+        "rate": 265.0,
+        "amount": 26500.0
+      }
+    ],
+    "taxable_value": 26500.0,
+    "gst_rate": 5,
+    "cgst": 662.5,
+    "sgst": 662.5,
+    "igst": 0.0,
+    "total": 27825.0
+  },
+  {
+    "id": "INV-009",
+    "image": "bills/INV-009.png",
+    "document_type": "tax_invoice",
+    "supplier_name": "Kaveri Knit Mills Pvt Ltd",
+    "supplier_gstin": "29AABCK4821M1Z9",
+    "supplier_address": "Plot 41, Peenya Industrial Area, Bengaluru 560058",
+    "invoice_no": "KKM/26-27/0146",
+    "date": "2026-10-10",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Men's cotton round-neck T-shirt",
+        "hsn": "6109",
+        "qty": 120,
+        "unit": "pcs",
+        "rate": 390.0,
+        "amount": 46800.0
+      },
+      {
+        "description": "Cotton poplin fabric",
+        "hsn": "5208",
+        "qty": 120,
+        "unit": "mtr",
+        "rate": 135.0,
+        "amount": 16200.0
+      },
+      {
+        "description": "Women's cotton kurti",
+        "hsn": "6204",
+        "qty": 25,
+        "unit": "pcs",
+        "rate": 495.0,
+        "amount": 12375.0
+      }
+    ],
+    "taxable_value": 75375.0,
+    "gst_rate": 5,
+    "cgst": 1884.38,
+    "sgst": 1884.38,
+    "igst": 0.0,
+    "total": 79143.76
+  },
+  {
+    "id": "INV-010",
+    "image": "bills/INV-010.png",
+    "document_type": "tax_invoice",
+    "supplier_name": "Mysore Cotton Traders",
+    "supplier_gstin": "29AAEFM7302D1ZJ",
+    "supplier_address": "88, Devaraja Mohalla, Mysuru 570001",
+    "invoice_no": "MCT/26-27/0564",
+    "date": "2026-10-11",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Women's cotton kurti",
+        "hsn": "6204",
+        "qty": 25,
+        "unit": "pcs",
+        "rate": 535.0,
+        "amount": 13375.0
+      },
+      {
+        "description": "Men's cotton round-neck T-shirt",
+        "hsn": "6109",
+        "qty": 50,
+        "unit": "pcs",
+        "rate": 275.0,
+        "amount": 13750.0
+      }
+    ],
+    "taxable_value": 27125.0,
+    "gst_rate": 5,
+    "cgst": 678.13,
+    "sgst": 678.13,
+    "igst": 0.0,
+    "total": 28481.26
+  },
+  {
+    "id": "INV-011",
+    "image": "bills/INV-011.png",
+    "document_type": "tax_invoice",
+    "supplier_name": "Tiruppur Tex Exports",
+    "supplier_gstin": "33AAUFT5519H1ZS",
+    "supplier_address": "14/2, Kangeyam Road, Tiruppur 641601",
+    "invoice_no": "TTX/26-27/0723",
+    "date": "2026-10-12",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Men's cotton formal shirt",
+        "hsn": "6205",
+        "qty": 40,
+        "unit": "pcs",
+        "rate": 530.0,
+        "amount": 21200.0
+      },
+      {
+        "description": "Women's cotton kurti",
+        "hsn": "6204",
+        "qty": 25,
+        "unit": "pcs",
+        "rate": 570.0,
+        "amount": 14250.0
+      }
+    ],
+    "taxable_value": 35450.0,
+    "gst_rate": 5,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 1772.5,
+    "total": 37222.5
+  },
+  {
+    "id": "INV-012",
+    "image": "bills/INV-012.jpg",
+    "document_type": "tax_invoice",
+    "supplier_name": "Coimbatore Fabrics Co",
+    "supplier_gstin": "33AAGFC2204Q1ZK",
+    "supplier_address": "7, Oppanakara Street, Coimbatore 641001",
+    "invoice_no": "CFC/26-27/0755",
+    "date": "2026-10-13",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Cotton poplin fabric",
+        "hsn": "5208",
+        "qty": 80,
+        "unit": "mtr",
+        "rate": 110.0,
+        "amount": 8800.0
+      },
+      {
+        "description": "Men's cotton formal shirt",
+        "hsn": "6205",
+        "qty": 50,
+        "unit": "pcs",
+        "rate": 540.0,
+        "amount": 27000.0
+      }
+    ],
+    "taxable_value": 35800.0,
+    "gst_rate": 5,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 1790.0,
+    "total": 37590.0
+  },
+  {
+    "id": "INV-013",
+    "image": "bills/INV-013.png",
+    "document_type": "tax_invoice",
+    "supplier_name": "Surat Weave Industries",
+    "supplier_gstin": "24AAHCS9017L1Z1",
+    "supplier_address": "Block C, Ring Road Textile Market, Surat 395003",
+    "invoice_no": "SWI/26-27/0924",
+    "date": "2026-10-15",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Kids' knitted cotton set",
+        "hsn": "6111",
+        "qty": 20,
+        "unit": "pcs",
+        "rate": 365.0,
+        "amount": 7300.0
+      },
+      {
+        "description": "Women's cotton kurti",
+        "hsn": "6204",
+        "qty": 20,
+        "unit": "pcs",
+        "rate": 530.0,
+        "amount": 10600.0
+      }
+    ],
+    "taxable_value": 17900.0,
+    "gst_rate": 5,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 895.0,
+    "total": 18795.0
+  },
+  {
+    "id": "INV-014",
+    "image": "bills/INV-014.png",
+    "document_type": "tax_invoice",
+    "supplier_name": "Ahmedabad Garment Hub",
+    "supplier_gstin": "24AAJFA6643R1ZX",
+    "supplier_address": "22, Relief Road, Ahmedabad 380001",
+    "invoice_no": "AGH/26-27/0317",
+    "date": "2026-10-16",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Men's cotton trousers",
+        "hsn": "6203",
+        "qty": 40,
+        "unit": "pcs",
+        "rate": 515.0,
+        "amount": 20600.0
+      },
+      {
+        "description": "Women's cotton kurti",
+        "hsn": "6204",
+        "qty": 60,
+        "unit": "pcs",
+        "rate": 880.0,
+        "amount": 52800.0
+      }
+    ],
+    "taxable_value": 73400.0,
+    "gst_rate": 5,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 3670.0,
+    "total": 77070.0
+  },
+  {
+    "id": "INV-015",
+    "image": "bills/INV-015.png",
+    "document_type": "tax_invoice",
+    "supplier_name": "Pune Apparel House",
+    "supplier_gstin": "27AAMFP1180B1ZG",
+    "supplier_address": "5, Laxmi Road, Pune 411001",
+    "invoice_no": "PAH/26-27/0864",
+    "date": "2026-10-17",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Men's cotton trousers",
+        "hsn": "6203",
+        "qty": 30,
+        "unit": "pcs",
+        "rate": 720.0,
+        "amount": 21600.0
+      },
+      {
+        "description": "Kids' knitted cotton set",
+        "hsn": "6111",
+        "qty": 100,
+        "unit": "pcs",
+        "rate": 210.0,
+        "amount": 21000.0
+      },
+      {
+        "description": "Men's cotton formal shirt",
+        "hsn": "6205",
+        "qty": 50,
+        "unit": "pcs",
+        "rate": 625.0,
+        "amount": 31250.0
+      }
+    ],
+    "taxable_value": 73850.0,
+    "gst_rate": 5,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 3692.5,
+    "total": 77542.5
+  },
+  {
+    "id": "INV-016",
+    "image": "bills/INV-016.png",
+    "document_type": "tax_invoice",
+    "supplier_name": "Hubballi Textile Depot",
+    "supplier_gstin": "29AAIFH3957C1Z9",
+    "supplier_address": "31, Station Road, Hubballi 580020",
+    "invoice_no": "HTD/26-27/0981",
+    "date": "2026-10-18",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Cotton poplin fabric",
+        "hsn": "5208",
+        "qty": 30,
+        "unit": "mtr",
+        "rate": 115.0,
+        "amount": 3450.0
+      },
+      {
+        "description": "Men's cotton trousers",
+        "hsn": "6203",
+        "qty": 80,
+        "unit": "pcs",
+        "rate": 970.0,
+        "amount": 77600.0
+      },
+      {
+        "description": "Women's cotton kurti",
+        "hsn": "6204",
+        "qty": 20,
+        "unit": "pcs",
+        "rate": 390.0,
+        "amount": 7800.0
+      }
+    ],
+    "taxable_value": 88850.0,
+    "gst_rate": 5,
+    "cgst": 2221.25,
+    "sgst": 2221.25,
+    "igst": 0.0,
+    "total": 93292.5
+  },
+  {
+    "id": "INV-017",
+    "image": "bills/INV-017.jpg",
+    "document_type": "tax_invoice",
+    "supplier_name": "Kaveri Knit Mills Pvt Ltd",
+    "supplier_gstin": "29AABCK4821M1Z9",
+    "supplier_address": "Plot 41, Peenya Industrial Area, Bengaluru 560058",
+    "invoice_no": "KKM/26-27/0911",
+    "date": "2026-10-19",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Men's cotton formal shirt",
+        "hsn": "6205",
+        "qty": 30,
+        "unit": "pcs",
+        "rate": 670.0,
+        "amount": 20100.0
+      }
+    ],
+    "taxable_value": 20100.0,
+    "gst_rate": 5,
+    "cgst": 502.5,
+    "sgst": 502.5,
+    "igst": 0.0,
+    "total": 21105.0
+  },
+  {
+    "id": "INV-018",
+    "image": "bills/INV-018.png",
+    "document_type": "tax_invoice",
+    "supplier_name": "Mysore Cotton Traders",
+    "supplier_gstin": "29AAEFM7302D1ZJ",
+    "supplier_address": "88, Devaraja Mohalla, Mysuru 570001",
+    "invoice_no": "MCT/26-27/0981",
+    "date": "2026-10-20",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Cotton poplin fabric",
+        "hsn": "5208",
+        "qty": 120,
+        "unit": "mtr",
+        "rate": 135.0,
+        "amount": 16200.0
+      },
+      {
+        "description": "Men's cotton round-neck T-shirt",
+        "hsn": "6109",
+        "qty": 100,
+        "unit": "pcs",
+        "rate": 295.0,
+        "amount": 29500.0
+      },
+      {
+        "description": "Men's cotton trousers",
+        "hsn": "6203",
+        "qty": 100,
+        "unit": "pcs",
+        "rate": 705.0,
+        "amount": 70500.0
+      }
+    ],
+    "taxable_value": 116200.0,
+    "gst_rate": 5,
+    "cgst": 2905.0,
+    "sgst": 2905.0,
+    "igst": 0.0,
+    "total": 122010.0
+  },
+  {
+    "id": "INV-019",
+    "image": "bills/INV-019.png",
+    "document_type": "tax_invoice",
+    "supplier_name": "Tiruppur Tex Exports",
+    "supplier_gstin": "33AAUFT5519H1ZS",
+    "supplier_address": "14/2, Kangeyam Road, Tiruppur 641601",
+    "invoice_no": "TTX/26-27/0798",
+    "date": "2026-10-21",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Kids' knitted cotton set",
+        "hsn": "6111",
+        "qty": 25,
+        "unit": "pcs",
+        "rate": 330.0,
+        "amount": 8250.0
+      }
+    ],
+    "taxable_value": 8250.0,
+    "gst_rate": 5,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 412.5,
+    "total": 8662.5
+  },
+  {
+    "id": "INV-020",
+    "image": "bills/INV-020.png",
+    "document_type": "tax_invoice",
+    "supplier_name": "Coimbatore Fabrics Co",
+    "supplier_gstin": "33AAGFC2204Q1ZK",
+    "supplier_address": "7, Oppanakara Street, Coimbatore 641001",
+    "invoice_no": "CFC/26-27/0564",
+    "date": "2026-10-22",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Kids' knitted cotton set",
+        "hsn": "6111",
+        "qty": 50,
+        "unit": "pcs",
+        "rate": 175.0,
+        "amount": 8750.0
+      },
+      {
+        "description": "Women's cotton kurti",
+        "hsn": "6204",
+        "qty": 30,
+        "unit": "pcs",
+        "rate": 745.0,
+        "amount": 22350.0
+      }
+    ],
+    "taxable_value": 31100.0,
+    "gst_rate": 5,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 1555.0,
+    "total": 32655.0
+  },
+  {
+    "id": "INV-021",
+    "image": "bills/INV-021.png",
+    "document_type": "tax_invoice",
+    "supplier_name": "Surat Weave Industries",
+    "supplier_gstin": "24AAHCS9017L1Z1",
+    "supplier_address": "Block C, Ring Road Textile Market, Surat 395003",
+    "invoice_no": "SWI/26-27/0612",
+    "date": "2026-10-23",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Kids' knitted cotton set",
+        "hsn": "6111",
+        "qty": 50,
+        "unit": "pcs",
+        "rate": 370.0,
+        "amount": 18500.0
+      }
+    ],
+    "taxable_value": 18500.0,
+    "gst_rate": 5,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 925.0,
+    "total": 19425.0
+  },
+  {
+    "id": "INV-022",
+    "image": "bills/INV-022.png",
+    "document_type": "tax_invoice",
+    "supplier_name": "Ahmedabad Garment Hub",
+    "supplier_gstin": "24AAJFA6643R1ZX",
+    "supplier_address": "22, Relief Road, Ahmedabad 380001",
+    "invoice_no": "AGH/26-27/0723",
+    "date": "2026-10-25",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Men's cotton formal shirt",
+        "hsn": "6205",
+        "qty": 50,
+        "unit": "pcs",
+        "rate": 795.0,
+        "amount": 39750.0
+      },
+      {
+        "description": "Cotton poplin fabric",
+        "hsn": "5208",
+        "qty": 100,
+        "unit": "mtr",
+        "rate": 170.0,
+        "amount": 17000.0
+      }
+    ],
+    "taxable_value": 56750.0,
+    "gst_rate": 18,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 10215.0,
+    "total": 66965.0
+  },
+  {
+    "id": "INV-023",
+    "image": "bills/INV-023.jpg",
+    "document_type": "tax_invoice",
+    "supplier_name": "Pune Apparel House",
+    "supplier_gstin": "27AAMFP1180B1ZG",
+    "supplier_address": "5, Laxmi Road, Pune 411001",
+    "invoice_no": "PAH/26-27/0100",
+    "date": "2026-10-26",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Men's cotton formal shirt",
+        "hsn": "6205",
+        "qty": 30,
+        "unit": "pcs",
+        "rate": 740.0,
+        "amount": 22200.0
+      },
+      {
+        "description": "Women's cotton kurti",
+        "hsn": "6204",
+        "qty": 100,
+        "unit": "pcs",
+        "rate": 850.0,
+        "amount": 85000.0
+      }
+    ],
+    "taxable_value": 107200.0,
+    "gst_rate": 5,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 5360.0,
+    "total": 112560.0
+  },
+  {
+    "id": "INV-024",
+    "image": "bills/INV-024.png",
+    "document_type": "tax_invoice",
+    "supplier_name": "Hubballi Textile Depot",
+    "supplier_gstin": "29AAIFH3957C1Z9",
+    "supplier_address": "31, Station Road, Hubballi 580020",
+    "invoice_no": "HTD/26-27/0345",
+    "date": "2026-10-27",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Men's cotton trousers",
+        "hsn": "6203",
+        "qty": 60,
+        "unit": "pcs",
+        "rate": 560.0,
+        "amount": 33600.0
+      },
+      {
+        "description": "Men's cotton round-neck T-shirt",
+        "hsn": "6109",
+        "qty": 50,
+        "unit": "pcs",
+        "rate": 400.0,
+        "amount": 20000.0
+      }
+    ],
+    "taxable_value": 53600.0,
+    "gst_rate": 5,
+    "cgst": 1340.0,
+    "sgst": 1340.0,
+    "igst": 0.0,
+    "total": 56280.0
+  },
+  {
+    "id": "INV-025",
+    "image": "bills/INV-025.png",
+    "document_type": "tax_invoice",
+    "supplier_name": "Kaveri Knit Mills Pvt Ltd",
+    "supplier_gstin": "29AABCK4821M1Z9",
+    "supplier_address": "Plot 41, Peenya Industrial Area, Bengaluru 560058",
+    "invoice_no": "KKM/26-27/0180",
+    "date": "2026-10-28",
+    "buyer_name": "Sri Meenakshi Garments",
+    "buyer_gstin": "29AKNPS4410R1ZA",
+    "place_of_supply": "Karnataka (29)",
+    "line_items": [
+      {
+        "description": "Men's cotton formal shirt",
+        "hsn": "6205",
+        "qty": 120,
+        "unit": "pcs",
+        "rate": 795.0,
+        "amount": 95400.0
+      }
+    ],
+    "taxable_value": 95400.0,
+    "gst_rate": 5,
+    "cgst": 2385.0,
+    "sgst": 2385.0,
+    "igst": 0.0,
+    "total": 100170.0
+  }
+]
